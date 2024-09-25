@@ -1,0 +1,67 @@
+.education-board-area{
+    background-color: #FFF;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+.header-logo{
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px 0 0 12px;
+    border-right: 2px solid #fff;
+}
+.header-content h1{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    color: #95e17d;
+    background: #007814;
+    background-image: url('../../../public/assets/banner_flag.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+    padding: 8px 5px;
+    border-bottom: 1px solid #95e17d;
+    
+}
+.header-content h2{
+    background: #007814;
+    padding: 8px 5px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #FFFFEE;
+    font-size: 19px;
+}
+.header-content p{
+    background: #6FB56C;
+    padding: 5px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #FFFFEE;
+    text-align: right;
+}
+.form-control{
+    max-width: 74%;
+    margin: 0 auto;
+    border: 2px solid black;
+    /* border-radius: 12px; */
+    padding: 60px;
+    margin-bottom: 50px;
+}
+.form-control h3{
+    font-weight: bold;
+}
+.form-control select,input{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #000000;
+    text-decoration: none;
+    background-color: #F4F0F2;
+    border: 1px solid #999;
+    font-weight: normal;
+    padding: 4px;
+    border-radius: 4px;
+}
+.footer-area{
+    background-color: #EEEEEE;
+    border-top: 5px solid #86C775;   
+}
